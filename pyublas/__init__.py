@@ -69,8 +69,6 @@ DTYPES_AND_ALIASES = [
     numpy.dtype(numpy.complex128),
     numpy.float64,
     numpy.complex128,
-    numpy.float,
-    numpy.complex,
     float,
     complex
     ]
