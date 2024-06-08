@@ -5,7 +5,7 @@ for use with
 `Boost.Python <http://www.boost.org/doc/libs/1_35_0/libs/python/doc/index.html>`_.
 
 What does that mean? When writing
-`hybrid scientific code <http://mathema.tician.de/node/455>`_,
+`hybrid scientific code <https://mathema.tician.de/on-hybrid-scientific-codes-part-i-the-idea/>`_,
 one of the main problems is that abstractions that
 exist in the high-level language go away or become unwieldy in the
 low-level language. Sometimes libraries exist in both languages for
@@ -17,7 +17,7 @@ Documentation
 =============
 
 See the
-`PyUblas Documentation <http://tiker.net/doc/pyublas>`_
+`PyUblas Documentation <https://documen.tician.de/pyublas/>`_
 page.
 
 PyUblasExt
@@ -26,5 +26,6 @@ PyUblasExt
 PyUblasExt is a companion to PyUblas and exposes a variety of useful
 additions to PyUblas, such as an "operator" class, matrix-free linear
 system solvers and eigensolvers. Interested? Head over to the
-`PyUblasExt <http://mathema.tician.de/software/pyublas/pyublasext>`_
+`PyUblasExt <https://mathema.tician.de/pyublasext/>`_
 page.
+
